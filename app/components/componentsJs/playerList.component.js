@@ -28,7 +28,7 @@ module.component("playerList", {
                 value: 'Andrea'
             },
             {
-                value: 'Pluto'
+                value: 'Topolino'
             },
         ];
     }
