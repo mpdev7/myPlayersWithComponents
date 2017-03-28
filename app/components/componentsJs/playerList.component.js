@@ -28,11 +28,7 @@ module.component("playerList", {
                 value: 'Andrea'
             },
             {
-<<<<<<< HEAD
                 value: 'Michele'
-=======
-                value: 'Pluto'
->>>>>>> firstBranch
             },
         ];
     }
